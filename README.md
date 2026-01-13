@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amal Anan</h1>
-<h3 align="center">A passionate Flutter developer from Gaza-Palestine</h3>
+<h3 align="center">A passionate Flutter developer from Gaza Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalanan&label=Profile%20views&color=0e75b6&style=flat" alt="amalanan" /> </p>
 
