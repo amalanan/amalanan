@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Amal Anan</h1>
-<h3 align="center">A passionate Flutter developer from Gaza Palestine 🇵🇸♥️👩🏻‍💻</h3>
+<h3 align="center">A Passionate Flutter developer from Gaza Palestine 🇵🇸♥️👩🏻‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalanan&label=Profile%20views&color=0e75b6&style=flat" alt="amalanan" /> </p>
 
@@ -17,6 +17,8 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mzFUNW2FMV8YLH7q_s2NwWqL9g_kgrGR/view?usp=drive_link](https://drive.google.com/file/d/1mzFUNW2FMV8YLH7q_s2NwWqL9g_kgrGR/view?usp=drive_link)
 
 - ⚡ Fun fact **I like listening to English Podcasts while Coding (":**
+
+- ⚡ A Quote that i love is **لن يَحمِلَ أحد حِملَك كما أنت، لن يأخذ بِيَدِك مثل يَدَك، لن تُكمل الطّريق وأنت تنتظر، لن يُنجز قائمة مهامك غيرك، قد تجد في المسير مُربّيًا، شيخًا، مُعلّمًا، رفيق درب، لكنّ الغرس الخَفِيّ عليك، والمسؤوليّة لديك، والجهد مطلوب منك، فاشتَدّ.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
