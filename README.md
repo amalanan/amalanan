@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalanan&label=Profile%20views&color=0e75b6&style=flat" alt="amalanan" /> </p>
 
-
 - 🔭 I’m currently working on [Second-Hand Electronics Marketplace Flutter Project📱💻](https://github.com/2EMarket/electrolink-app.git)
 
 - 🌱 I’m currently learning **Flutter Mobile App Development**
