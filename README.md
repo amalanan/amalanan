@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Nexa Pay Project](https://gitlab.com/nexacorp/Nexa.git)
 
-- 💬 Ask me about **Dart (Flutter), Java, Python, UI/UX, mobile app development**
+- 💬 Ask me about **Dart (Flutter), Java, UI/UX, mobile app development**
 
 - 📫 How to reach me **amalananana@gmail.com**
 
