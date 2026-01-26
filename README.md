@@ -17,8 +17,9 @@
 
 - ⚡ Fun fact **I like listening to English Podcasts while Coding (":**
 
-- 👩🏻‍💻 A Quote that i love **I thought I was better safe than starry-eyed** 
+- 👩🏻‍💻 A Quote that i love **I thought I was better safe than starry-eyed**
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amal anan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal anan" height="30" width="40" /></a>
