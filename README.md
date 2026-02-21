@@ -16,7 +16,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YQ71x-Jy8v4Xca6w1vwi0Dk_dlIJ8kjj/view?usp=drive_link](https://drive.google.com/file/d/1YQ71x-Jy8v4Xca6w1vwi0Dk_dlIJ8kjj/view?usp=drive_link)
 
 - ⚡ Fun fact **I like listening to English Podcasts while Coding(":**
-
   
 - 👩🏻‍💻 A Quote that i love **I thought I was better safe than starry-eyed**
 <h3 align="left">Connect with me:</h3>
