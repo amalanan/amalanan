@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I like listening to English Podcasts while Coding(": **
   
-- 👩🏻‍💻 A Quote that i love **Being this young is Art**
+- 👩🏻‍💻 A Quote that i love **Being this young is Art Like I'm so Enchanted to meet this version of Myself ♥️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
