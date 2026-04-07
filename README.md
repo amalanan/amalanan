@@ -20,7 +20,6 @@
   
 - 👩🏻‍💻 A Quote that i love **Being this young is Art Like I'm so Enchanted to meet this version of Myself ♥️**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amal anan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal anan" height="30" width="40" /></a>
