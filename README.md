@@ -6,7 +6,7 @@
 - 🔭 I’m have recentky finished [Second-Hand Electronics Marketplace Flutter Project📱💻](https://github.com/2EMarket/electrolink-app.git)
   
 - 🌱 I’m currently learning **Flutter Mobile App Development**
-
+ 
 - 👯 I’m looking to collaborate on [Nexa Pay Project](https://gitlab.com/nexacorp/Nexa.git)
 
 - 💬 Ask me about **Dart (Flutter), Java, UI/UX, mobile app development**
@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I like listening to English Podcasts while Coding (":  **
 
 - 👩🏻‍💻 A Quote that i love **Being this young is Art and I'm so Enchanted to meet this version of Myself ♥️**
-  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amal anan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal anan" height="30" width="40" /></a>
