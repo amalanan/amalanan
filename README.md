@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalanan&label=Profile%20views&color=0e75b6&style=flat" alt="amalanan" /> </p>
 
 - 🔭 I’m have recentky finished [Second-Hand Electronics Marketplace Flutter Project📱💻](https://github.com/2EMarket/electrolink-app.git)
-  
+   
 - 🌱 I’m currently learning **Flutter Mobile App Development**
  
 - 👯 I’m looking to collaborate on [Nexa Pay Project](https://gitlab.com/nexacorp/Nexa.git)
 
 - 💬 Ask me about **Dart (Flutter), Java, UI/UX, mobile app development**
   
-- 📫 How to reach me **amalananana@gmail.com**
+- 📫 How to reach me **amalananana@gmail.com** 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YQ71x-Jy8v4Xca6w1vwi0Dk_dlIJ8kjj/view?usp=drive_link](https://drive.google.com/file/d/1YQ71x-Jy8v4Xca6w1vwi0Dk_dlIJ8kjj/view?usp=drive_link)
 
