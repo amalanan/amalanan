@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalanan&label=Profile%20views&color=0e75b6&style=flat" alt="amalanan" /> </p>
 
 - 🔭 I have recentky started working on [Chatify Firebase & Cloudinary based Chat App Flutter Project📱💻](https://github.com/amalanan/Chatify_Flutter_Chat_App_Firebase_Cloudinary)
-    
+     
 - 🔭 I have recentky finished [Second-Hand Electronics Marketplace Flutter Project📱💻](https://github.com/2EMarket/electrolink-app.git)
     
 - 🌱 I’m currently learning **Flutter Mobile App Development**
