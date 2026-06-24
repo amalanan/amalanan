@@ -3,7 +3,7 @@
                
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalanan&label=Profile%20views&color=0e75b6&style=flat" alt="amalanan" /> </p>
 
-- 💜 My Portfolio [Portfolio]([https://github.com/amalanan/ChatGPT-clone-app](https://amalanan.github.io/))
+- 💜 My Portfolio (https://amalanan.github.io/)
 
 - 🔭 I have recentky started working on [ChatGPT Firebase based Clone App Flutter Project📱💻](https://github.com/amalanan/ChatGPT-clone-app)
       
