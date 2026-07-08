@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Flutter developer from Gaza Palestine 🇵🇸♥️👩🏻‍💻</h3>    
                       
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalanan&label=Profile%20views&color=0e75b6&style=flat" alt="amalanan" /> </p>
- 
+  
 - 💜 My Portfolio (https://amalanan.github.io/)
 
 - 🔭 I have recentky started working on [ChatGPT Firebase based Clone App Flutter Project📱💻](https://github.com/amalanan/ChatGPT-clone-app)
