@@ -6,7 +6,7 @@
 - 💜 My Portfolio (https://amalanan.github.io/)
             
 - 🔭 I have recentky finished [Chatify Firebase & Cloudinary based Chat App Flutter Project📱💻](https://github.com/amalanan/Chatify_Flutter_Chat_App_Firebase_Cloudinary)
-     
+      
 - 🌱 I’m currently learning **Flutter Mobile App Development**
        
 - 👯 I’m looking to collaborate on [Nexa Pay Project](https://gitlab.com/nexacorp/Nexa.git)
