@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalanan&label=Profile%20views&color=0e75b6&style=flat" alt="amalanan" /> </p>
                          
 - 💜 My Portfolio (https://amalanan.github.io/)
-  
+   
 - 🔭 I have recentky finished [Chatify Firebase & Cloudinary based Chat App Flutter Project📱💻](https://github.com/amalanan/Chatify_Flutter_Chat_App_Firebase_Cloudinary)
       
 - 🌱 I’m currently learning **Flutter Mobile App Development**
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YQ71x-Jy8v4Xca6w1vwi0Dk_dlIJ8kjj/view?usp=drive_link](https://drive.google.com/file/d/1-N0LzanX0i3aP4XU52qUNt47KcLSM0N5/view?usp=sharing)
 
-- ⚡ Fun fact **I like listening to English Podcasts while Coding (":  **
+- ⚡ Fun fact **I like listening to English Podcasts while Coding (":**
 
 - 👩🏻‍💻 A Quote that i love **Being this young is Art and I'm so Enchanted to meet this version of Myself ♥️**
 
